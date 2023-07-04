@@ -94,7 +94,7 @@ const BLOG = {
       'https://npm.elemecdn.com/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js',
   PRISM_JS_PATH: 'https://npm.elemecdn.com/prismjs@1.29.0/components/',
   PRISM_THEME_PATH:
-      'https://github.com/PrismJS/prism-themes/blob/master/themes/prism-material-oceanic.css', // 代码样式主题 更多参考 https://github.com/PrismJS/prism-themes
+      'https://npm.elemecdn.com/prism-themes/themes/prism-a11y-dark.min.css', // 代码样式主题 更多参考 https://github.com/PrismJS/prism-themes
  //https://github.com/PrismJS/prism-themes/blob/master/themes/prism-material-oceanic.css//新加的代码主题
   //https://npm.elemecdn.com/prism-themes/themes/prism-a11y-dark.min.css  默认代码主题
   CODE_MAC_BAR: true, // 代码左上角显示mac的红黄绿图标
